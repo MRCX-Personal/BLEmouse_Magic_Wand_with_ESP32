@@ -54,4 +54,4 @@ Press <-> GPIO6
 
 ## Reference documents
 * [Document of ESP32C3SuperMini](https://www.nologo.tech/product/esp32/esp32c3SuperMini/esp32C3SuperMini.html)
-* [ESP32 BLE Mouse library(https://github.com/T-vK/ESP32-BLE-Mouse)
+* [ESP32 BLE Mouse library](https://github.com/T-vK/ESP32-BLE-Mouse)
