@@ -23,7 +23,7 @@ I would greatly appreciate it if you press like or subscribe. <br>
 
 ## Component List
 * ESP32C3SuperMini 
-![pic4](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/esp32c3.jpg?raw=true)
+![pic4](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/esp32c3.JPG)
 * MPU6050
 * Arrow Button
 ![pic5](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/arrowbutton.JPG)
