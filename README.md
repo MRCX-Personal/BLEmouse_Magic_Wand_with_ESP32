@@ -3,8 +3,8 @@
 zh-CN/简体中文：[查看链接](https://) <br>
 This project is a Bluetooth gyro mouse in the shape of Harry Potter's Magic Wand using ESP32-C3 and MPU6050.It can be used as a mouse, with all the functions of a mouse, and the top of magic wand can light up and be used as a flashlight. You can control your computer with this "mouse" by using your hand movement. <br>
 This repository includes programs, circuit information, and 3D models. <br>
-![pic1](png?raw=true)
-![pic2](png?raw=true)
+![pic1](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/pic1.jpg?raw=true)
+![pic2](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/pic2.jpg?raw=true)
 
 The video demonstration and tutorial for this project:[Bilibili]() <br>
 I would greatly appreciate it if you press like or subscribe. <br>
@@ -19,12 +19,14 @@ I would greatly appreciate it if you press like or subscribe. <br>
 * Glow as a flashlight(Lumos)
 * Build in Battery
 
+![pic3](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/pic4.jpg)
+
 ## Component List
 * ESP32C3SuperMini 
-![pic3](png?raw=true)
+![pic4](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/pic4.jpg?raw=true)
 * MPU6050
 * Arrow Button
-![pic4](png?raw=true)
+![pic5](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/arrowbutton.JPG)
 * 5mm LED
 * 3.7V battery
 * Wire
