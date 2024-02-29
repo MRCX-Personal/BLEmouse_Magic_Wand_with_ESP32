@@ -1,6 +1,6 @@
 # Bluetooth gyro mouse in the shape of Harry Potter's Magic Wand
 
-zh-CN/简体中文：[查看链接](https://) <br>
+zh-CN/简体中文：[查看链接](https://mrcx-personal.github.io/2024/02/29/esp32-magic-wand/) <br>
 This project is a Bluetooth gyro mouse in the shape of Harry Potter's Magic Wand using ESP32-C3 and MPU6050.It can be used as a mouse, with all the functions of a mouse, and the top of magic wand can light up and be used as a flashlight. You can control your computer with this "mouse" by using your hand movement. <br>
 This repository includes programs, circuit information, and 3D models. <br>
 ![pic1](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/pic1.jpg?raw=true)
