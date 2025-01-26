@@ -28,7 +28,7 @@ I would greatly appreciate it if you press like or subscribe. <br>
 * ESP32C3SuperMini 
 ![pic4](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/esp32c3.JPG)
 * MPU6050
-* Arrow Button / 五项按键
+* Arrow Button / 五向按键
 ![pic5](https://github.com/MRCX-Personal/BLEmouse_Magic_Wand_with_ESP32/blob/main/pic/arrowbutton.JPG)
 * 5mm LED
 * 3.7V battery
